@@ -1,0 +1,30 @@
+.container{
+	margin-top: 50px;
+	border-radius: 6px;
+	text-align: center;
+}
+.author{
+	font-family: 'EB Garamond', serif;
+}
+.quote{
+	font-family: 'EB Garamond', serif;
+	font-size: 20px;
+}
+.heading{
+	font-family: 'Pacifico', cursive;
+}
+.sub_head{
+	font-family: 'Dancing Script', cursive;
+	font-size: 20px;
+}
+.body{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	padding-top:30px;
+}
+ul{
+	text-align: left;
+}
+a{
+	color: #33A3FF;
+}
